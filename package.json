@@ -1,0 +1,25 @@
+{
+  "name": "promise",
+  "version": "0.0.5",
+  "description": "A customed promise",
+  "main": "promise.js",
+  "devDependencies": {
+    "promises-aplus-tests": "^2.1.2"
+  },
+  "scripts": {
+    "test": "promises-aplus-tests promise.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xiaohaifengke/promise.git"
+  },
+  "keywords": [
+    "promise"
+  ],
+  "author": "jhail",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xiaohaifengke/promise/issues"
+  },
+  "homepage": "https://github.com/xiaohaifengke/promise#readme"
+}
